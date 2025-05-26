@@ -1,0 +1,147 @@
+{
+  "menu": {
+    "title": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "shop": "Shop"
+    },
+    "signIn": {
+      "title": "Anmelden",
+      "text": "Melden Sie sich mit der E-Mail-Adresse und dem Passwort an, die Sie bei der Registrierung angegeben haben.",
+      "labelEmail": "E-Mail-Adresse",
+      "labelPassword": "Passwort",
+      "textRegister": "Noch kein Konto? ",
+      "sUp": "Registrieren",
+      "fagotEmail": "Bitte geben Sie Ihre E-Mail-Adresse ein",
+      "fagotBtn": "E-Mail senden",
+      "code": "Ein Code wurde an Ihre E-Mail gesendet",
+      "secondCode": "Sie können den Code eingeben. Verbleibende Zeit: ",
+      "second": "Sekunde"
+    },
+    "signUp": {
+      "title": "Anmelden",
+      "text": "Die Registrierung dauert weniger als eine Minute, gibt dir aber vollständige Kontrolle über deine Bestellungen.",
+      "labelNickname": "Spitzname",
+      "fagot": "Passwort vergessen?"
+    },
+    "search": {
+      "btnSearch": "Suche",
+      "searchCategory": {
+        "category1": "Mobiltelefone",
+        "category2": "Smartwatches",
+        "category3": "Kopfhörer",
+        "category4": "Zubehör",
+        "category5": "Monitore",
+        "category6": "Lautsprecher",
+        "category7": "Speicherkarten"
+      }
+    }
+  },
+
+  "footer": {
+    "textShip": "Wir versenden mit:",
+    "textPayment": "Zahlungsoptionen:",
+    "copyright": "Copyright2025 MiniStore. Erstellt von Starovoit Volodymyr"
+  },
+
+  "globalBox": {
+    "subscribe": "Abonniere uns jetzt",
+    "textSubscribe": "Erhalte die neuesten Nachrichten, Updates und Angebote direkt in dein Postfach.",
+    "btnSubscribe": "Abonnieren",
+    "shopTitle": "Shoppe unser Insta",
+    "bigFooter": {
+      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur nihil facere alias!",
+      "title1": "Schnellzugriff",
+      "title2": "Kontaktieren Sie uns",
+      "textEmail": "Haben Sie Fragen oder Vorschläge?",
+      "textTel": "Brauchen Sie Unterstützung? Rufen Sie uns einfach an."
+    }
+  },
+  "namePage": {
+    "shop": "Geschäft",
+    "user": "Benutzerseite",
+    "cart": "Warenkorb",
+    "checkout": "Zur Kasse",
+    "contact": "Kontakt",
+    "about": "Um"
+  },
+  "shopPage": {
+    "categories": "Kategorien",
+    "brands": "Marken",
+    "filter": "Nach Preis filtern"
+  },
+  "pagination": {
+    "page": "Seite",
+    "of": "von",
+    "showing": "Angezeigt",
+    "results": "Ergebnisse"
+  },
+  "product": {
+    "stock": "auf Lager",
+    "buy": "jetzt kaufen",
+    "add": "in den Warenkorb",
+    "category": "Kategorie",
+    "description": "Beschreibung"
+  },
+  "user": {
+    "nickname": "Spitzname",
+    "email": "E-Mail",
+    "id": "ID",
+    "btnLogout": "Abmelden",
+    "btnEdit": "Bearbeiten",
+    "btnDelete": "Löschen"
+  },
+  "cart": {
+    "product": "Produkt",
+    "quantity": "Menge",
+    "subtitle": "Zwischensumme",
+    "delete": "Löschen",
+    "totalTitle": "Warenkorb Gesamt",
+    "subtotal": "Zwischensumme",
+    "total": "Gesamt",
+    "shaping": "Weiter einkaufen",
+    "checkout": "Zur Kasse"
+  },
+  "checkout": {
+    "titleOne": "Rechnungsdetails",
+    "name": "Vorname",
+    "last": "Nachname",
+    "company": "Firmenname (optional)",
+    "country": "Land / Region",
+    "city": "Stadt",
+    "address": "Straßenadresse",
+    "zip": "Postleitzahl",
+    "phone": "Telefon",
+    "titleTwo": "Zusätzliche Informationen",
+    "notes": "Bestellhinweise (optional)",
+    "bank": "Direkte Banküberweisung",
+    "check": "Scheckzahlung",
+    "cash": "Nachnahme",
+    "btnOrder": "Bestellung aufgeben"
+  },
+  "contact": {
+    "titleOne": "Kontaktinformationen",
+    "subtitle": "Tortor dignissim convallis aenean et tortor at risus viverra adipiscing.",
+    "office": "Büro",
+    "map": "Karte",
+    "tel": "Tel",
+    "manage": "Verwaltung",
+    "store": "Unsere Geschäfte",
+    "subtitleTwo": "Sie können Produkte auch direkt in unseren Geschäften kaufen.",
+    "usa": "USA",
+    "germany": "Deutschland"
+  },
+  "home": {
+    "titleOne": "Ihre Produkte sind großartig.",
+    "btnShop": "Produkte einkaufen",
+    "titlePhone": "Mobilgeräte",
+    "titleWatch": "Smartwatches"
+  },
+  "guarantyComp": {
+    "delivery": "Kostenlose Lieferung",
+    "quality": "Qualitätsgarantie",
+    "daily": "Tägliche Angebote",
+    "payment": "100 % sichere Bezahlung"
+  }
+}

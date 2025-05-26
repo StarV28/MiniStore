@@ -1,0 +1,146 @@
+{
+  "menu": {
+    "title": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact",
+      "shop": "Shop"
+    },
+    "signIn": {
+      "title": "Sign In",
+      "text": "Sign in to your account using email and password provided during registration.",
+      "labelEmail": "Email addres",
+      "labelPassword": "Password",
+      "textRegister": "Don't have an account? ",
+      "sUp": "Sign Up",
+      "fagot": "Forgot Password ?",
+      "fagotEmail": "Please enter your E-mail",
+      "fagotBtn": "Send E-mail",
+      "code": " A code has been sent to your email",
+      "sendCode": "Send Code",
+      "secondCode": "You can enter the code. Time left:  ",
+      "second": "second"
+    },
+    "signUp": {
+      "title": "Sign Up",
+      "text": "Registration takes less than a minute but gives you full control over your orders.",
+      "labelNickname": "Nickname"
+    },
+    "search": {
+      "btnSearch": "Search",
+      "searchCategory": {
+        "category1": "Mobile Phones",
+        "category2": "SmartWatches",
+        "category3": "Headphones ",
+        "category4": "Accessories ",
+        "category5": "Monitors ",
+        "category6": "Speakers ",
+        "category7": "Memory Cards "
+      }
+    }
+  },
+  "footer": {
+    "textShip": "We ship with:",
+    "textPayment": "Payment options:",
+    "copyright": "Copyright2025 MiniStore. Made by Starovoit Volodymyr"
+  },
+  "globalBox": {
+    "subscribe": "Subscribe Us now",
+    "textSubscribe": "Get latest news, updates and deals directly mailed to your inbox.",
+    "btnSubscribe": "Subscribe",
+    "shopTitle": "Shop our insta",
+    "bigFooter": {
+      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur nihil facere alias!",
+      "title1": "Quick links",
+      "title2": "Contact US",
+      "textEmail": "Do you have any queries or suggestions?",
+      "textTel": "If you need support? Just give us a call."
+    }
+  },
+  "namePage": {
+    "shop": "Shop",
+    "user": "Page User",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "shopPage": {
+    "categories": "categories",
+    "brands": "Brands",
+    "filter": "Filter by price"
+  },
+  "pagination": {
+    "page": "Page",
+    "of": "of",
+    "showing": "Showing",
+    "results": "results"
+  },
+  "product": {
+    "stock": "in stock",
+    "buy": "buy now",
+    "add": "add to cart",
+    "category": "category",
+    "description": "Description"
+  },
+  "user": {
+    "nickname": "Nickname",
+    "email": "E-mail",
+    "id": "ID",
+    "btnLogout": "Logout",
+    "btnEdit": "Edit",
+    "btnDelete": "Delete"
+  },
+  "cart": {
+    "product": "product",
+    "quantity": "quantity",
+    "subtitle": "subtitle",
+    "delete": "delete",
+    "totalTitle": "cart totals",
+    "subtotal": "subtotal",
+    "total": "total",
+    "shaping": "Continue shopping",
+    "checkout": "Proceed to checkout"
+  },
+  "checkout": {
+    "titleOne": "Billing Details",
+    "name": "First name",
+    "last": "Last name",
+    "company": "Company name (optional)",
+    "country": "Country / Region",
+    "city": "Town / City",
+    "address": "Street address",
+    "zip": "ZIP Code",
+    "phone": "Phone",
+    "titleTwo": "Additional Information",
+    "notes": "Order notes (optional)",
+    "bank": "Direct bank transfer",
+    "check": "Check payments",
+    "cash": "Cash on delivery",
+    "btnOrder": "Place an order"
+  },
+  "contact": {
+    "titleOne": "Contact info",
+    "subtitle": "Tortor dignissim convallis aenean et tortor at risus viverra adipiscing.",
+    "office": "Office",
+    "map": "Map",
+    "tel": "tel",
+    "manage": "Management",
+    "store": "Our stores",
+    "subtitleTwo": "You can also directly buy products from our stores.",
+    "usa": "USA",
+    "germany": "Germany"
+  },
+  "home": {
+    "titleOne": "Your Products are great.",
+    "btnShop": "Shop Product",
+    "titlePhone": "Mobile Products",
+    "titleWatch": "Smart Watches"
+  },
+  "guarantyComp": {
+    "delivery": "Free delivery",
+    "quality": "Quality guarantee",
+    "daily": "Daily offers",
+    "payment": "100% secure payment"
+  }
+}

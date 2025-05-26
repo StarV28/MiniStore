@@ -1,0 +1,41 @@
+{
+  "name": "ministore",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --fix",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "@fontsource/jost": "^5.2.5",
+    "@fontsource/lato": "^5.2.5",
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.8.4",
+    "pinia": "^3.0.1",
+    "sass-embedded": "^1.86.2",
+    "swiper": "^11.2.7",
+    "vee-validate": "^4.15.0",
+    "vue": "^3.5.13",
+    "vue-i18n": "^9.14.3",
+    "vue-router": "^4.5.0",
+    "vuetify": "^3.8.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "eslint": "^9.22.0",
+    "eslint-plugin-vue": "~10.0.0",
+    "fast-glob": "^3.3.3",
+    "globals": "^16.0.0",
+    "prettier": "3.5.3",
+    "vite": "^6.2.4",
+    "vite-plugin-svg-icons": "^2.0.1",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
